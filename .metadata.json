@@ -1,6 +1,5 @@
 [
   {
-    "package": "climate",
-    "oncran": true
+    "package": "climate"
   }
 ]
