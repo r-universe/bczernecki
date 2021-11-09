@@ -1,5 +1,8 @@
 [
   {
+    "package": "thundeR"
+  },
+  {
     "package": "climate",
     "oncran": true
   }
