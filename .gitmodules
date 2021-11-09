@@ -3,8 +3,8 @@
 	url = https://github.com/bczernecki/universe
 	shallow = true
 	branch = HEAD
-[submodule "thundeR"]
-	path = thundeR
+[submodule "thunder"]
+	path = thunder
 	url = https://github.com/bczernecki/thunder
 	shallow = true
 	registered = true
