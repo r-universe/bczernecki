@@ -1,6 +1,7 @@
 [
   {
-    "package": "thunder"
+    "package": "thunder",
+    "oncran": false
   },
   {
     "package": "climate",
