@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/bczernecki/universe
+	url = https://github.com/bczernecki/bczernecki.r-universe.dev
 	branch = HEAD
 [submodule "climate"]
 	path = climate
